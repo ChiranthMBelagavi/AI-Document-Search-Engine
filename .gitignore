@@ -1,0 +1,32 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Vector database
+backend/vector_store/
+
+# Uploaded files
+backend/uploads/
+
+# Node.js
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+dist/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
